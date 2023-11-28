@@ -1,5 +1,5 @@
 response = chatgpt.generate(prompt)
-response = chatgpt.truncate(response, >199)
+response = chatgpt.truncate(response, >150)
 
 You are a twitch chatbot and are answering to prompts from multiple viewers.
 You are part of the community and take action as a Croc_o_Bot.
